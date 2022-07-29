@@ -27,5 +27,3 @@ if (numberGuess != winNumber)
 alert ("You've reached the amount of tries allowed. Please play again.\n The correct number is: " + winNumber);
 }
 
-
-
